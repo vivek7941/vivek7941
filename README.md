@@ -47,4 +47,50 @@ Previously interned at Xebia IT Architects, where I developed enterprise softwar
 
 ### Link Meet - Real-Time Video Conferencing Platform
 
-A
+A full-featured video conferencing application supporting peer-to-peer video/audio streaming, screen sharing, and live chat for 10+ concurrent users.
+
+**Technologies:** React.js, Node.js, WebRTC, Socket.io, MongoDB
+
+**Links:** [Live Demo](https://linkmeet-1.onrender.com) | [Repository](https://github.com/vivek7941/LinkMeet)
+
+**Key Features:**
+- WebRTC peer-to-peer video/audio streaming
+- Real-time screen sharing capabilities
+- Live chat functionality
+- JWT-based authentication
+- Deployed on Render with MongoDB Atlas
+
+### Easy Chat - AI-Powered Chat Application
+
+An intelligent chatbot application integrating Google Gemini API for natural language processing and conversational AI responses.
+
+**Technologies:** React.js, Node.js, Express.js, Google Gemini API, MongoDB
+
+**Links:** [Live Demo](https://easy-chat-git-master-vivek7941s-projects.vercel.app) | [Frontend Repository](https://github.com/vivek7941/EasyChat-frontend) | [Backend Repository](https://github.com/vivek7941/EasyChat-backend)
+
+**Key Features:**
+- Decoupled frontend-backend architecture
+- Google Gemini API integration for AI responses
+- RESTful API design
+- Deployed on Vercel (frontend) and Render (backend)
+
+## Experience
+
+**Software Development Intern** | Xebia IT Architects Pvt. Ltd. | Summer 2025
+
+Developed Finfolio, a stock portfolio tracking application with real-time market data integration. Built responsive frontend using React and implemented features for portfolio visualization and company financial data display.
+
+## Certifications
+
+- Developing Solutions for Microsoft Azure (AZ-204)
+- Robotics & Drone Bootcamp, IIT Mandi
+
+
+
+## Contact
+
+**Email:** vivek08012004@gmail.com
+
+**Location:** Gurugram, India
+
+Currently seeking full-time opportunities in Full Stack Development starting 2026.
