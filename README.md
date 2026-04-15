@@ -66,7 +66,7 @@ An intelligent chatbot application integrating Google Gemini API for natural lan
 
 **Technologies:** React.js, Node.js, Express.js, Google Gemini API, MongoDB
 
-**Links:** [Live Demo](https://easy-chat-git-master-vivek7941s-projects.vercel.app) | [Frontend Repository](https://github.com/vivek7941/EasyChat-frontend) | [Backend Repository](https://github.com/vivek7941/EasyChat-backend)
+**Links:** [Live Demo](https://easychat-plum.vercel.app/) | [Frontend Repository](https://github.com/vivek7941/EasyChat-frontend) | [Backend Repository](https://github.com/vivek7941/EasyChat-backend)
 
 **Key Features:**
 - Decoupled frontend-backend architecture
