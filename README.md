@@ -4,7 +4,7 @@ Full Stack Developer specializing in MERN stack and real-time web applications.
 
 ## About Me
 
-Fourth-year B.Tech student in Computer Science and Engineering (Full Stack Development) at K.R. Mangalam University, Gurugram. Experienced in building scalable web applications with modern JavaScript frameworks and real-time communication technologies.
+B.Tech student in Computer Science and Engineering (Full Stack Development) at K.R. Mangalam University, Gurugram. Experienced in building scalable web applications with modern JavaScript frameworks and real-time communication technologies.
 
 Previously interned at Xebia IT Architects, where I developed enterprise software solutions and contributed to full-stack development projects.
 
