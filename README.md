@@ -58,7 +58,7 @@ I build full-stack MERN applications, real-time apps, and custom client websites
 - Integrated third-party apps into Shopify stores and completed store setup and theme customization
 - Developed custom WordPress plugins and Elementor pages for client-specific functionality
 - Converted static HTML/CSS designs into fully editable WordPress themes and templates
-- Delivered 10+ client projects, managing several concurrently
+- Managed multiple client projects concurrently, from requirements gathering through deployment
 
 ### Software Development Intern | Xebia IT Architects Pvt. Ltd.
 *Summer 2025 | Remote*
