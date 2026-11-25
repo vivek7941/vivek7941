@@ -8,7 +8,7 @@
 
 B.Tech Computer Science and Engineering student (Full Stack Development) at K.R. Mangalam University, Gurugram, graduating in 2026.
 
-I build full-stack MERN applications, real-time apps, and custom client websites on Shopify and WordPress. As a Web Developer at Digital Heroes, I delivered 10+ client projects, often several at once, from requirements through deployment.
+I build full-stack MERN applications, real-time apps, and custom client websites on Shopify and WordPress. As a Web Developer at Digital Heroes, I worked on multiple client projects at a time, taking each from requirements through deployment.
 
 ---
 
